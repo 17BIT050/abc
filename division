@@ -1,4 +1,4 @@
-// C program to divide two numbers, print the quotient and remainder – without the division operation ?
+// C program to divide two numbers, print the quotient and remainder – without the division operation 
 
 #include <stdio.h>
 #include <string.h>
